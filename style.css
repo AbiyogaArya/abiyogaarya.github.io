@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2f4f4f;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#skills {
+  background-color: #2f4f4f;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+  padding-top: 5rem;
+}
